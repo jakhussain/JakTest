@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloMDS!</string>
+    <string name="app_name">HelloMDS</string>
+    
+    <!-- Menu-->
+	<string name="menu_item_connect">Go online</string>
+	<string name="menu_item_disconnect">Go offline</string>
+	<string name="menu_item_exit">Exit</string>
+	
+	<!-- SNR dialog -->
+	<string name="snr_dialog_title">Creating your account</string>
+	<string name="snr_dialog_message">Please wait</string>
+	<string name="snr_dialog_failed_message">Account creation failed. Please check your Internet connection and restart.</string>
+	
+</resources>

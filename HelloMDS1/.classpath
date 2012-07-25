@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="D:/Appc/Modules/MBlox/SDK/mds-sdk-android-5.3.0/lib/utils-5.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appc/Modules/MBlox/SDK/mds-sdk-android-5.3.0/lib/mds-core-5.3.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
